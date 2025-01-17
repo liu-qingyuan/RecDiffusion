@@ -2,7 +2,7 @@
 
 This is a fork of the official implementation of the CVPR 2024 paper "RecDiffusion: Rectangling for Image Stitching with Diffusion Models".
 
-Original Repository: [Link to original repo when available]
+Original Repository: [https://github.com/lhaippp/RecDiffusion.git](https://github.com/lhaippp/RecDiffusion.git)
 
 [Paper Link](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhou_RecDiffusion_Rectangling_for_Image_Stitching_with_Diffusion_Models_CVPR_2024_paper.pdf)
 
